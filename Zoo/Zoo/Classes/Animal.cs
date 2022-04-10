@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Zoo.Classes
 {
-    public class Animal : AnimalProperties
+    public class Animal : AnimalProperties, IAnimal, IProperties
     {
         public override bool isPredatory { get; set; }
         public override bool layEggs { get; set; }

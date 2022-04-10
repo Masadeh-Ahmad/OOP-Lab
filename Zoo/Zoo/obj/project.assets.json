@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tomcat00\\source\\repos\\Zoo\\Zoo\\Zoo.csproj",
+      "projectUniqueName": "C:\\Users\\Tomcat00\\Dotnet-401\\OOP-Lab\\Zoo\\Zoo\\Zoo.csproj",
       "projectName": "Zoo",
-      "projectPath": "C:\\Users\\Tomcat00\\source\\repos\\Zoo\\Zoo\\Zoo.csproj",
+      "projectPath": "C:\\Users\\Tomcat00\\Dotnet-401\\OOP-Lab\\Zoo\\Zoo\\Zoo.csproj",
       "packagesPath": "C:\\Users\\Tomcat00\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tomcat00\\source\\repos\\Zoo\\Zoo\\obj\\",
+      "outputPath": "C:\\Users\\Tomcat00\\Dotnet-401\\OOP-Lab\\Zoo\\Zoo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tomcat00\\AppData\\Roaming\\NuGet\\NuGet.Config",
