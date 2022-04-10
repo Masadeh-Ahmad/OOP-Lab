@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Zoo.Classes
 {
-    public abstract class AnimalProperties : AnimalCage,IAnimal
+    public abstract class AnimalProperties : AnimalCage,IAnimal, IProperties
     {
        
         public virtual string animalName { get; set; }

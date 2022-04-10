@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JgU/GRuKumTaLe/q3vpQhWhCc/FY8l+Rn14lMdNYAtk3YZiuD3EoLRWFWVmErwSMDY9wZ4EwiN6GHjUGMInNaA==",
+  "dgSpecHash": "jmMP3HF9+EnnD8Sy5WKFrxkqaklJ+RGaewSyIk7B/9OVXqUBDOOn+kq+g2CZ9beCFZ9EmLu3csKOljOazFoHKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tomcat00\\source\\repos\\Zoo\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "C:\\Users\\Tomcat00\\Dotnet-401\\OOP-Lab\\Zoo\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tomcat00\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Tomcat00\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
